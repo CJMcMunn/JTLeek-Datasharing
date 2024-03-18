@@ -1,6 +1,3 @@
-I hope I'm not messing this up
-
-
 How to share data with a statistician
 ===========
 
